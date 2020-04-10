@@ -1,5 +1,5 @@
-<img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="50%" height="50%">
-<img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="50%" height="50%">
+<img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="40%" height="40%">
+<img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="40%" height="40%">
 
 
 ## Why Teaching STEM Matters For Kids?
