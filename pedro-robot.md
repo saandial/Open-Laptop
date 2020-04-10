@@ -2,7 +2,7 @@ layout: page
 
 title: "pedro-robot"
 
-permalink: https://saandial.github.io/Open-Laptop/
+permalink: /Open-Laptop/
 
 ## Welcome to Pedro Robot page
 
