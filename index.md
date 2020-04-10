@@ -1,6 +1,6 @@
 <img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="30%" height="30%">
-![IUT Comoros](https://saandial.github.io/Open-Laptop/images/iut_comoros.png){:height="50%" width="50%"} 
-![IUT Comoros](https://saandial.github.io/Open-Laptop/images/iut_comoros.png){:height="50%" width="50%"}
+<img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="30%" height="30%">
+
 
 ## Why Teaching STEM Matters For Kids?
 
