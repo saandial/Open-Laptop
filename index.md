@@ -1,3 +1,5 @@
+![IUT Comoros](https://saandial.github.io/Open-Laptop/images/iut_comoros.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [Pedro Robot page](/Open-Laptop/pedro-robot) to maintain and preview the content for your website in Markdown files.
