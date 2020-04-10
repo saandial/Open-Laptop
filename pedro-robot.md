@@ -1,3 +1,7 @@
+layout: page
+title: "pedro-robot"
+permalink: https://saandial.github.io/Open-Laptop/
+
 ## Welcome to Pedro Robot page
 
 You can use the [editor on GitHub](https://saandial.github.io/Open-Laptop/) to maintain and preview the content for your website in Markdown files.
