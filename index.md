@@ -1,4 +1,4 @@
-![IUT Comoros](https://saandial.github.io/Open-Laptop/images/iut_comoros.png width=50)
+![IUT Comoros](https://saandial.github.io/Open-Laptop/images/iut_comoros.png | width=50)
 
 ## Why Teaching STEM Matters For Kids?
 
