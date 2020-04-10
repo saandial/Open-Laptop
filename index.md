@@ -1,4 +1,4 @@
-<a href="https://saandial.github.io/Open-Laptop/pedro-robot.md"><img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="40%" height="40%"></a>
+<a href="https://saandial.github.io/Open-Laptop/pedro-robot"><img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="40%" height="40%"></a>
 <img src="https://saandial.github.io/Open-Laptop/images/iut_comoros.png" width="40%" height="40%">
 
 
