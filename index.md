@@ -1,6 +1,6 @@
-![IUT Comoros](https://saandial.github.io/Open-Laptop/images/iut_comoros.png)
+![IUT Comoros](https://saandial.github.io/Open-Laptop/images/iut_comoros.png width=50)
 
-## Welcome to GitHub Pages
+## Why Teaching STEM Matters For Kids?
 
 You can use the [Pedro Robot page](/Open-Laptop/pedro-robot) to maintain and preview the content for your website in Markdown files.
 
